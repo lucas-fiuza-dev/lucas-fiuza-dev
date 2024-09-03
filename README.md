@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas FiÚZA 🖐️
+## Olá! Eu sou o Lucas Fiúza 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
